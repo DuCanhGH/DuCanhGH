@@ -30,7 +30,3 @@
 
 - Logo (I don't like getting into troubles with msft, of friggin' course).
 
-## Noice, I'm addicted.
-
-<img src="https://i.ibb.co/F6HRrZb/Screenshot-21.png" width="800px" height="auto">
-
