@@ -25,5 +25,5 @@ Fixes needed:
 - UI.
 
 - Change the logo (I don't like getting into troubles with msft, of friggin' course).
-<img src="https://drive.google.com/uc?export=view&id=126hyF7nnvxcPzKw1ZM9mFbbPmEgScGpU" width="800px" height="auto">
+<img src="https://picsum.photos/3840/2160?random=1" width="800px" height="auto">
 
