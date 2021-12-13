@@ -26,4 +26,6 @@ Fixes needed:
 
 - Change the logo (I don't like getting into troubles with msft, of friggin' course).
 
+[contributions](https://drive.google.com/uc?export=view&id=126hyF7nnvxcPzKw1ZM9mFbbPmEgScGpU)
+
 
