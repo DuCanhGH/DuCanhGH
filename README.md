@@ -24,4 +24,6 @@ Fixes needed:
 
 - UI.
 
+- Change the logo (I don't like getting into troubles with msft, of friggin' course).
+
 
