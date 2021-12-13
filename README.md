@@ -18,7 +18,7 @@
 
 - Chat (if I actually get the time).
 
-## Fixes needed:
+## Features that need fixes:
 
 - Comment and reply system.
 
