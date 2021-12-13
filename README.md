@@ -10,7 +10,7 @@
 - MongoDB, React Native, C#?
 
 ## Incoming release: 
-- Project Unknown. Preview: projunk.vercel.app (dumb URL, I know)
+- Project Unknown.
 
 ## Features coming to this website:
 
