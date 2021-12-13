@@ -1,16 +1,27 @@
-### Hi there 👋
+Welcome to my GH page :) Nothing here, yeah.
 
-<!--
-**DuCanhGH/DuCanhGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have got a good grasp of: JS, ReactJS
 
-Here are some ideas to get you started:
+I know about: Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Planning to learn: MongoDB, React Native, C#?
+
+Incoming release: Project Unknown. Preview: projunk.vercel.app (dumb URL, I know)
+
+Features coming to this website:
+
+- A place to share videos.
+
+- Chat (if I actually get the time).
+
+Fixes needed:
+
+- Comment and reply system.
+
+- Accessibility (75 score bonk).
+
+- SEO.
+
+- UI.
+
+
