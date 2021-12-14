@@ -30,3 +30,7 @@
 
 - Logo (I don't like getting into troubles with msft, of friggin' course).
 
+- Load time (too slow).
+
+- More.
+
