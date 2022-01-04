@@ -16,21 +16,21 @@
 
 - A place to share videos.
 
-- Chat (if I actually get the time).
+- Chat (if I can actually get around to it).
 
 ## Features that need fixes:
 
 - Comment and reply system.
 
-- Accessibility (75 score bonk).
+- Accessibility (95!). //almost done.
 
-- SEO.
+- SEO. //Google can now index any pages on the site.
 
 - UI.
 
 - Logo (I don't like getting into troubles with msft, of friggin' course).
 
-- Load time (too slow).
+- Load time. //done, great scores from browserstack.com.
 
 - More.
 
