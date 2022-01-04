@@ -22,15 +22,11 @@
 
 - Comment and reply system.
 
-- Accessibility (95!). //almost done.
-
-- SEO. //Google can now index any page on the site.
+- Accessibility. //almost done.
 
 - UI.
 
 - Logo (I don't like getting into troubles with msft, of friggin' course).
-
-- Load time. //done, great scores from browserstack.com.
 
 - More.
 
