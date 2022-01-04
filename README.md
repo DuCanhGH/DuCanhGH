@@ -24,7 +24,7 @@
 
 - Accessibility (95!). //almost done.
 
-- SEO. //Google can now index any pages on the site.
+- SEO. //Google can now index any page on the site.
 
 - UI.
 
