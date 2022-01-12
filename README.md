@@ -7,10 +7,10 @@
 - Firebase
 
 ## Planning to learn: 
-- MongoDB, React Native, C#?
+- MongoDB (already in progress), React Native, C#?
 
 ## Incoming release: 
-- Project Unknown.
+- Project Unknown - a MERN Stack website.
 
 ## Features coming to this website:
 
@@ -21,8 +21,6 @@
 ## Features that need fixes:
 
 - Comment and reply system.
-
-- Accessibility. //almost done.
 
 - UI.
 
