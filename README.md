@@ -1,10 +1,7 @@
 # Welcome to my GH page :) Nothing here, yeah.
 
-## I have got a good grasp of: 
-- JS
-
 ## I know about: 
-- Firebase, MERN
+- Firebase, MERN, JS
 
 ## Planning to learn: 
 - React Native, C#?
@@ -16,7 +13,7 @@
 
 - Comment and reply system //kind of fixed.
 
-- UI.
+- UI //why is this so goddamn hard?
 
 - Logo (I don't like getting into troubles with msft, of friggin' course).
 
