@@ -1,26 +1,20 @@
 # Welcome to my GH page :) Nothing here, yeah.
 
 ## I have got a good grasp of: 
-- JS, ReactJS
+- JS
 
 ## I know about: 
-- Firebase
+- Firebase, MERN
 
 ## Planning to learn: 
-- MongoDB (already in progress), React Native, C#?
+- React Native, C#?
 
 ## Incoming release: 
-- Project Unknown - a MERN Stack website.
-
-## Features coming to this website:
-
-- A place to share videos.
-
-- Chat (if I can actually get around to it).
+- Project Unknown
 
 ## Features that need fixes:
 
-- Comment and reply system.
+- Comment and reply system //kind of fixed.
 
 - UI.
 
