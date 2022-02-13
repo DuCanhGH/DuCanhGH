@@ -1,7 +1,7 @@
 # Welcome to my GH page :) Nothing here, yeah.
 
 ## I know about: 
-- Firebase, MERN, JS
+- Firebase, MongoDB, JS, TS, Postgres
 
 ## Planning to learn: 
 - React Native, C#?
