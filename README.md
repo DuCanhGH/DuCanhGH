@@ -3,8 +3,11 @@
 ## I know about: 
 - Firebase, MongoDB, JS, TS, Postgres
 
+## Currently learning (as a beginner - learning along with the aforementioned ones):
+- C++, React Native
+
 ## Planning to learn: 
-- React Native, C#?
+- C#?
 
 ## Incoming release: 
 - Project Unknown
