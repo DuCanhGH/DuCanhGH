@@ -22,5 +22,5 @@
 
 - More.
 
-P/s: sucks ball at designing
+P/s: sucks balls at designing
 
