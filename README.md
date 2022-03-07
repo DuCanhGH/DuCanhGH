@@ -12,15 +12,5 @@
 ## Incoming release: 
 - Project Unknown
 
-## Features that need fixes:
-
-- Comment and reply system //kind of fixed.
-
-- UI //why is this so goddamn hard?
-
-- Logo (I don't like getting into troubles with msft, of friggin' course).
-
-- More.
-
 P/s: sucks balls at designing
 
