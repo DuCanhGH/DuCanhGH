@@ -1,16 +1,16 @@
 # Welcome to my GH page :) Nothing here, yeah.
 
-## I know about: 
-- Firebase, MongoDB, JS, TS, Postgres
+## I know pretty well about: 
+- Firebase, MongoDB, JS, TS, Postgres.
 
-## Currently learning (as a beginner - learning along with the aforementioned ones):
-- C++, React Native
+## Currently learning (still pretty inexperienced):
+- C++, React Native, Rust.
 
 ## Planning to learn: 
-- C#?
+- C# I guess?
 
 ## Incoming release: 
-- Project Unknown
+- Project Unknown.
 
-### P/s: sucks balls at designing
+### P/s: sucks balls at designing.
 
