@@ -13,7 +13,6 @@ specifiers:
   esbuild: 0.15.16
   eslint: 8.28.0
   eslint-config-prettier: 8.5.0
-  eslint-mdx: 2.0.5
   eslint-plugin-mdx: 2.0.5
   eslint-plugin-prettier: 4.2.1
   eslint-plugin-simple-import-sort: 8.0.0
@@ -27,9 +26,6 @@ specifiers:
   tsx: 3.12.1
   typescript: 4.9.3
 
-dependencies:
-  common-tags: 1.8.2
-
 devDependencies:
   '@types/common-tags': 1.8.1
   '@types/node': 18.11.10
@@ -39,10 +35,10 @@ devDependencies:
   '@typescript-eslint/parser': 5.45.0_hsf322ms6xhhd4b5ne6lb74y4a
   args-flags: 1.1.1
   chokidar: 3.5.3
+  common-tags: 1.8.2
   esbuild: 0.15.16
   eslint: 8.28.0
   eslint-config-prettier: 8.5.0_eslint@8.28.0
-  eslint-mdx: 2.0.5_eslint@8.28.0
   eslint-plugin-mdx: 2.0.5_eslint@8.28.0
   eslint-plugin-prettier: 4.2.1_cwlo2dingkvfydnaculr42urve
   eslint-plugin-simple-import-sort: 8.0.0_eslint@8.28.0
@@ -686,7 +682,7 @@ packages:
   /common-tags/1.8.2:
     resolution: {integrity: sha512-gk/Z852D2Wtb//0I+kRFNKKE9dIIVirjoqPoA1wJU+XePVXZfGeBpk45+A1rKO4Q43prqWBNY/MiIeRLbPWUaA==}
     engines: {node: '>=4.0.0'}
-    dev: false
+    dev: true
 
   /concat-map/0.0.1:
     resolution: {integrity: sha512-/Srv4dswyQNBfohGpz9o6Yb3Gz3SrUDqBH5rTuhGR7ahtlbYKnVxw2bCFMRljaA7EXHaXZ8wsHdodFvbkhKmqg==}
