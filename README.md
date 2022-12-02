@@ -1,8 +1,5 @@
-# Welcome to my GH page :) Nothing here, yeah.
+# Welcome to my Github!
 
-## Currently learning:
-- Firebase, MongoDB, JS, TS, Postgres, C, C++, React Native, Rust, NASM Assembly.
+## I'm currently learning these languages:
 
-### P/s: sucks balls at designing.
-### ~~f*ck css, sorry~~
-
+<table> <tr> <td valign="middle"> <img src="public/Javascript.png" alt="Javascript" width="25" height="25" /> Javascript <br /> </td> </tr> </table><table> <tr> <td valign="middle"> <img src="public/Typescript.png" alt="Typescript" width="25" height="25" /> Typescript <br /> </td> </tr> </table><table> <tr> <td valign="middle"> <img src="public/Rust.png" alt="Rust" width="25" height="25" /> Rust <br /> </td> </tr> </table><table> <tr> <td valign="middle"> <img src="public/C.png" alt="C" width="25" height="25" /> C <br /> </td> </tr> </table><table> <tr> <td valign="middle"> <img src="public/C++.png" alt="C++" width="25" height="25" /> C++ <br /> </td> </tr> </table><table> <tr> <td valign="middle"> <img src="public/NASM.png" alt="NASM" width="25" height="25" /> NASM <br /> </td> </tr> </table>
