@@ -45,7 +45,7 @@ const sourceMDX = resolve((flags.cwd as string) ?? process.cwd(), sourcePath);
 async function build() {
   try {
     const contents = await mdxToMd(sourceMDX);
-    await writeFile(outPath, contents);
+    await writeFile(outPath, contents, { encoding: "utf8", flag: "w" });
     console.log(`📝 Converted ${sourcePath} -> ${outPath}`);
   } catch (err) {
     console.error(`❌ ${err instanceof Error ? err.message : err}`);
@@ -53,6 +53,7 @@ async function build() {
 }
 
 if (flags.watch) {
+  build();
   watch([sourceMDX, "src/components"]).on("change", build);
 } else {
   build();
