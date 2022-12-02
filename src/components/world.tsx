@@ -6,7 +6,7 @@ export const ProgrammingLanguages = () => {
     (lang) =>
       html` <table>
         <tr>
-          <td valign="middle">
+          <td valign="center">
             <img
               src="public/${lang}.png"
               alt="${lang}"
