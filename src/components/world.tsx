@@ -10,7 +10,7 @@ export const ProgrammingLanguages = () => {
           width="25"
           height="25"
         />
-        <h4>${lang}</h4>
+        ${lang}
         <br />`
   );
 };
