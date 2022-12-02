@@ -9,8 +9,6 @@ export const ProgrammingLanguages = () => {
           alt="${lang}"
           width="25"
           height="25"
-        />
-        ${lang}
-        <br />`
+        />&nbsp; ${lang} <br />`
   );
 };
