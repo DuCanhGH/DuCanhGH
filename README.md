@@ -28,4 +28,4 @@ Alternative account: https://github.com/DuCanhGH2.
 ## Contributed to
 
 [<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="Next.js" width="50" height="50" />](https://github.com/vercel/next.js)&nbsp;
-[<img src="https://github.com/rayepps/radash/raw/master/banner.png" alt="Next.js" height="50" />](https://github.com/rayepps/radash/)&nbsp;
+[<img src="https://github.com/rayepps/radash/raw/master/banner.png" alt="Radash" height="50" />](https://github.com/rayepps/radash/)&nbsp;
