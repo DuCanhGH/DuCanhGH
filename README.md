@@ -6,8 +6,6 @@ I am DuCanhGH, currently a CS student. Also really interested in the Web.
 
 You may find me on Discord as du.canh (do introduce yourself before sending a friend request!).
 
-Usually workable with until you yap nonsense 💀
-
 Alternative account: https://github.com/DuCanhGH2.
 
 ## Learning
