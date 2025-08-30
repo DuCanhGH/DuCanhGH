@@ -2,11 +2,11 @@
 
 ## Introduction
 
-I am DuCanhGH, currently a CS student. Also really interested in the Web.
+I am DuCanh, currently a BS in CS @ Purdue University. Also really interested in the Web.
 
-You may find me on Discord as du.canh (do introduce yourself before sending a friend request!).
+You may find me on Discord as @du.canh (do introduce yourself before sending a friend request!).
 
-Alternative account: https://github.com/rustussy.
+Alts: [@rustussy](https://github.com/rustussy) [@canhdu](https://github.com/canhdu)
 
 ## Learning
 
